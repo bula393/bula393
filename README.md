@@ -41,8 +41,7 @@
 ## 📈 Actividad reciente
 
 <!--START_SECTION:activity-->
-1. 🎉 Se creó el repositorio [bula393/bula393](https://github.com/bula393/bula393)
-2. ⭐ Actividad actualizada automáticamente cada 30 minutos
+
 <!--END_SECTION:activity-->
 
 ---
