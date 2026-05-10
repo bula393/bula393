@@ -1,4 +1,4 @@
-# Hola, I'm bula393 👋
+# Hi, I'm bula393 👋
 
 <!-- Datos actualizados automáticamente via GitHub API -->
 
@@ -41,17 +41,27 @@
 ## 📈 Actividad reciente
 
 <!--START_SECTION:activity-->
-<!-- Esta sección se actualiza automáticamente si configurás la GitHub Action "jamesgeorge007/github-activity-readme" -->
-<!-- Pasos para activar:
-     1. Creá el archivo .github/workflows/update-readme.yml en tu repo de perfil
-     2. Pegá la action de github-activity-readme
-     3. El workflow se ejecuta cada 30 minutos y actualiza esta sección automáticamente
--->
+1. 🎉 Se creó el repositorio [bula393/bula393](https://github.com/bula393/bula393)
+2. ⭐ Actividad actualizada automáticamente cada 30 minutos
 <!--END_SECTION:activity-->
 
 ---
 
+## 🔧 Tecnologías y herramientas
 
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+---
 
 ## 📫 Contacto
 
