@@ -1,4 +1,4 @@
-# Hi, I'm bula393 👋
+# Hola, soy bula393 👋
 
 <!-- Datos actualizados automáticamente via GitHub API -->
 
