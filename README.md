@@ -1,4 +1,4 @@
-# Hola, soy bula393 👋
+# Hi, I'm bula393 👋
 
 <!-- Datos actualizados automáticamente via GitHub API -->
 
@@ -40,7 +40,56 @@
 
 ## 📈 Actividad reciente
 
+<!--START_SECTION:activity-->
+<!-- Esta sección se actualiza automáticamente si configurás la GitHub Action "jamesgeorge007/github-activity-readme" -->
+<!-- Pasos para activar:
+     1. Creá el archivo .github/workflows/update-readme.yml en tu repo de perfil
+     2. Pegá la action de github-activity-readme
+     3. El workflow se ejecuta cada 30 minutos y actualiza esta sección automáticamente
+-->
+<!--END_SECTION:activity-->
 
+---
+
+## 🔧 Cómo mantener este README actualizado automáticamente
+
+Este README usa los siguientes servicios que **no requieren configuración manual**:
+
+| Servicio | Qué actualiza | Frecuencia |
+|---|---|---|
+| `github-readme-stats` | Stats generales, lenguajes | Cada visita |
+| `streak-stats` | Racha de commits | Cada visita |
+| `shields.io` | Badges de followers/stars | Cada visita |
+| `komarev` | Contador de vistas | Cada visita |
+
+### Para activar la sección de actividad reciente:
+
+Creá el archivo `.github/workflows/update-readme.yml` en tu repo `bula393/bula393` con este contenido:
+
+```yaml
+name: Update README
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update README with recent activity
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'chore: update README with recent activity'
+          MAX_LINES: 5
+```
+
+---
 
 ## 📫 Contacto
 
